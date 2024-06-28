@@ -15,5 +15,5 @@ cd Text_encryption
 ```
 * run the python file:
 ```bash
-python _rsa.py
+python _rsa1.py
 ```
