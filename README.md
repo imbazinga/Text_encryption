@@ -1,5 +1,5 @@
 # Text_encryption
-A simple text encryptor application that allows you to encrypt and decrypt files using encryption algorithms such as AES (Advanced Encryption Standard) and RSA (Rivest-Shamir-Adleman) which demonstrates the basics of file encryption and decryption using both symmetric and asymmetric encryption.
+A simple text encryptor application that allows you to encrypt and decrypt messages using encryption algorithms such as AES (Advanced Encryption Standard) and RSA (Rivest-Shamir-Adleman) which demonstrates the basics of text encryption and decryption using both symmetric and asymmetric encryption.
 # Installation
 * install the required module:
 ```bash
